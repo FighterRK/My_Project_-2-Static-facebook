@@ -1,0 +1,28 @@
+button{
+    background:greenyellow;
+    color:black;
+}
+#Para1{
+    color: burlywood;
+}
+#Para2{
+    color: green;
+}
+.content{
+    color: hotpink;
+    background-color:lawngreen ;
+}
+
+.outer{
+    width: 200px;
+    height: 300px;
+    background: rgb(110, 163, 2);
+    margin-left: 200px;
+    margin-bottom: 400px;
+    padding-left: 20px;
+    border: 10px solid;
+}
+.inner{
+    background: black;
+    width: 100px;
+}
